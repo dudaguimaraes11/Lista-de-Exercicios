@@ -1,3 +1,4 @@
+// 1 – Cadastro de novos produtos
 let promocoes = [
   "teclado mecânico",
   "mouse gamer",
@@ -10,4 +11,4 @@ let promocoes = [
 ];
 
 promocoes.push (`SSD 1TB`, `mesa digitalizadora`);
-console.log (`Depois do push: ${promocoes}.`); 
+console.log (`Cadastro de produtos atualizado: ${promocoes}.`); 
